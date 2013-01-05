@@ -4,6 +4,10 @@ Modern alpinists try to climb mountains by a route which will give them good spo
 
 It is hard for us to realize nowadays how difficult it was for the pioneers. Except for one or two places such as Zermatt and Chamonix, which had rapidly become popular, Alpine villages tended to be impoverished settlements cut off from civilization by the high mountains. Such inns as there were were generally dirty and flea-ridden; the food simply local cheese accompanied by bread often twelve months old, all washed down with coarse wine. Often a valley boasted no inn at all, and climbers found shelter wherever they could--sometimes with the local priest (who was usually as poor as his parishioners), sometimes with shepherds or cheesemakers. Invariably the background was the same: dirt and poverty, and very uncomfortable. For men accustomed to eating seven-course dinners and sleeping between fine linen sheets at Home, the change to the Alps must have been very hard indeed.
 
+参考译文
+现代登山运动员总想找一条能够给他们带来运动乐趣的路线来攀登山峰。他们认为， 道路愈艰险愈带劲儿。然而，在登山运动的初期，全然不是这种情况。早期登山者所寻找的是通往山顶的最方便的途径，因为顶峰特别是前人未曾到过的顶峰 -- 才是他们寻求的目标。确实，在探险中他们经常遇到惊心动魄的困难和危险，而他们装备之简陋足以使现代登山者一想起来就胆战心惊。但是，他们并非故意寻求这种刺激，他们只有一个目标，唯一的目标 -- 顶峰！ 
+我们今天很难想像昔日的登山先驱们是多么艰苦。除了泽曼特和夏蒙尼等一两个很快出了名的地方外，阿尔卑斯山山区的小村几乎全是高山环抱、与世隔绝的穷乡僻壤。那里的小客栈一般都很肮脏，而且跳蚤猖獗。 食物是当地的干酪和通常存放了一年之久的面包，人们就着劣酒吞下这种食物。山谷里常常没有小客栈，登山者只好随遇而安。有时同当地牧师 （他通常和他的教民一样穷）住在一起，有时同牧羊人或制乳酪的人住在一起。无论住在哪儿，情况都一样：肮脏、贫穷，极其不舒适。对于过惯了一顿饭吃7道菜、睡亚麻细布床单的人来说，变换一下生活环境来到阿尔卑斯山山区，那一定是很艰难的。 
+
 
 #New words and expressions 生词短语 
 
