@@ -23,20 +23,20 @@ rollingbooks
 
 meta.json
 
-'''
+```
 {
   "title" : "胡安·恩利克斯：令人吃惊的新科技",
   "type"  : "markdown",
   "words" : []
 }
-'''
+```
 
 manifest.json
 
-'''
+```
 {
   "name":         "新概念第四册",
   "tasks":        10,
   "desc":         "新概念第四册的课文"
 }
-'''
+```
